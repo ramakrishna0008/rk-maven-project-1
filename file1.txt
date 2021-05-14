@@ -1,0 +1,3 @@
+Hi 
+Verifying e-mail notifications on success
+using Extended E-mail notification
