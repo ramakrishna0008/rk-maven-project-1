@@ -1,6 +1,6 @@
 <html>
 <body bgcolor="#0073b0">
-<div style="text-align:center">
+<div style="position:relative;top:50%;text-align:center;color:white">
 <h1>Welcome to RK-DevOps World!</h1>
 <h2>Have a Greate Day!</h2>
 </div>
